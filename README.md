@@ -1,1 +1,2 @@
 # Group6_selective_regression
+The code is written by Satwik Anand,Rohan Kumar,Shivam Shah and Fardeen Razif as a part of Group Project of EE5180 taking inspiration from the paper Reference: Abhin Shah, Yuheng Bu, Joshua Ka-Wing Lee, Subhro Das, Rameswar Panda, Prasanna Sattigeri, Gregory W. Wornell, "Selective Regression under Fairness Criteria," In International Conference on Machine Learning (ICML), 2022.
